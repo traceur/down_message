@@ -1,0 +1,14 @@
+Down some message from http://www.itsec.gov.cn/ and mark it as pdf
+
+Use it must:
+
+"If Html have Chinese you must have the code2000.ttf Because xhtml2pdf just use it"
+
+"sudo apt-get install python-BeautifulSoup"
+
+"sudo apt-get install python-reportlab"
+
+"sudo apt-get install python-html5lib"
+
+"sudo apt-get install python-xhtml2pdf"
+
